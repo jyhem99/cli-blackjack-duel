@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u3+xLgBBNSI=",
+  "success": true,
+  "projectFilePath": "/Users/jeonyh/Desktop/cli-blackjack-duel/cli-blackjack-duel.fsproj",
+  "expectedPackageFiles": [
+    "/Users/jeonyh/.nuget/packages/fsharp.core/10.1.201/fsharp.core.10.1.201.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="cli-blackjack-duel">
+    <resource name="FSharpSignatureData.cli-blackjack-duel" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.cli-blackjack-duel" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.cli-blackjack-duel" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.cli-blackjack-duel" action="remove"></resource>
+    <resource name="FSharpOptimizationData.cli-blackjack-duel" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.cli-blackjack-duel" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.cli-blackjack-duel" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.cli-blackjack-duel" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.cli-blackjack-duel" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.cli-blackjack-duel" action="remove"></resource>
+  </assembly>
+</linker>
